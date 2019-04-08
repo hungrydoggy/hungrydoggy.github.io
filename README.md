@@ -1,1 +1,1 @@
-# hungrydoggy.git.io
+# hungrydoggy.github.io
