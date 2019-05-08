@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Redirect, Link } from 'react-router-dom'
 
+import 'bootstrap';
+
 
 class TopPart extends Component {
   constructor (props) {
@@ -28,18 +30,18 @@ class TopPart extends Component {
         
         let sub_menus = menu.sub_menu.map((sub_menu)=>{
           return (
-            <Link className={'nav-item nav-link mx-3' + ((cur_path === sub_menu.path)?' active':'')} to={sub_menu.path} key={sub_menu.path}>
+            <Link className={'dropdown-item ' + ((cur_path === sub_menu.path)?' bg-secondary text-white':'')} to={sub_menu.path} key={sub_menu.path}>
               {sub_menu.name}
             </Link>
           );
-        })
+        });
 
         return (
         <div className="dropdown" key={idx}>
           <div className="nav-item nav-link mx-3 dropdown-toggle" style={{cursor:'pointer'}} id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             {menu.name}
           </div>
-          <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <div className="dropdown-menu" style={{width:'20rem'}} aria-labelledby="dropdownMenuButton">
             {sub_menus}
           </div>
         </div>
@@ -57,15 +59,15 @@ class TopPart extends Component {
 
     return (
       <div>
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
           {/* <Link className="navbar-brand" to="/"><Logo height={'2rem'}/></Link> */}
-          <Link className="navbar-brand" to="/">강의 블로그</Link>
+          <Link className="navbar-brand" to="/">김종헌의 강의 블로그</Link>
           <div className="mx-3"></div>
           <div className="navbar-nav flex-grow-1">
             <div className="w-100 d-flex align-items-center">
               {menu_tags}
               <div className="flex-grow-1"></div>
-              <button className="btn btn-sm btn-secondary" onClick={()=>this._logout()}>logout</button>
+              {/* <button className="btn btn-sm btn-secondary" onClick={()=>this._logout()}>logout</button> */}
               {right_menu_tags}
             </div>
           </div>
@@ -77,13 +79,22 @@ class TopPart extends Component {
   _makeData () {
     return {
       menus: [
-        { name: 'Dashboard', path: '/'         },
-        { name: 'Social'   , path: '/social'   },
-        { name: 'Sale'     , path: '/sale'     },
-        { name: 'Product'  , path: '/product'  },
+        {
+          name: 'Flutter - Fast Campus',
+          path: '/flutter/Fast-Campus/2019-05-11/intro',
+        }
+        // {
+        //   name: 'Flutter',
+        //   sub_menu: [
+        //     {
+        //       name: 'Fast Campus 2019-05-11',
+        //       path: '/fast-campus-2019-05-11',
+        //     },
+        //   ],
+        // },
       ],
       right_menus: [
-        { name: 'Tips'     , path: '/tips'     },
+        // { name: 'Tips'     , path: '/tips'     },
       ],
     };
   }
