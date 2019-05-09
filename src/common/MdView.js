@@ -7,6 +7,9 @@ import CodeBlock from './CodeBlock';
 import './github-markdown.css';
 
 
+// const address = 'https://hungrydoggy.github.io';
+const address = 'http://localhost:3000';
+
 class MdView extends Component {
   constructor (props) {
     super(props);
@@ -32,6 +35,14 @@ class MdView extends Component {
           renderers={{
             code: CodeBlock,
           }}
+          transformImageUri={
+            (input) => {
+              console.log(input);
+              return /^https?:/.test(input)
+                ? input
+                : `${address}/${input}`
+            }
+          }
         />
       </div>
     );
