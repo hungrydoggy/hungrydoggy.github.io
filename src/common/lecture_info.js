@@ -18,4 +18,8 @@ export default {
     name: 'Flutter란?/Dart 소개',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.01.dart-intro.md'),
   },
+  '/flutter/Fast-Campus/2019-05-11/next' : {
+    name: 'Flutter란?/next',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.02.next.md'),
+  },
 };

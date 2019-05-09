@@ -2,6 +2,8 @@ import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import ReactMarkdown from 'react-markdown';
 
+import CodeBlock from './CodeBlock';
+
 import './github-markdown.css';
 
 
@@ -27,6 +29,9 @@ class MdView extends Component {
         <ReactMarkdown
           source={this.state.source}
           skipHtml={false}
+          renderers={{
+            code: CodeBlock,
+          }}
         />
       </div>
     );
