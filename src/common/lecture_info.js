@@ -22,4 +22,14 @@ export default {
     name: '시작/Dart 소개',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.02.dart-intro.md'),
   },
+  '/flutter/Fast-Campus/2019-05-11/create-project' : {
+    name: '시작/프로젝트 생성',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.03.create-project.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/hello-world' : {
+    name: '시작/Flutter 겉 핥기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.04.hello-world.md'),
+  },
+
+  
 };

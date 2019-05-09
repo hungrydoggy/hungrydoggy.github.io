@@ -37,7 +37,6 @@ class MdView extends Component {
           }}
           transformImageUri={
             (input) => {
-              console.log(input);
               return /^https?:/.test(input)
                 ? input
                 : `${address}/${input}`
