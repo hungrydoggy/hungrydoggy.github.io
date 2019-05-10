@@ -38,7 +38,7 @@ export default {
     name: '시작/Flutter 겉핥기: -버튼 기능',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.06.add-button-func.md'),
   },
-  '/flutter/Fast-Campus/2019-05-11/add-button-func' : {
+  '/flutter/Fast-Campus/2019-05-11/first-mission' : {
     name: '시작/[미션] 다른 버튼 추가',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.07.first-mission.md'),
   },
