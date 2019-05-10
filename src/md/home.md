@@ -9,3 +9,7 @@
 1. 강의와 관련된 추가 자료를 공유
 1. 강의와 관련된 질의응답 공유
 1. 강의와 관련된 포럼
+
+## 강사 연락처
+- email: john@teamappetizer.com
+- facebook messenger: https://www.facebook.com/messages/t/john.kim.87

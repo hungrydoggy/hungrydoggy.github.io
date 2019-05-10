@@ -30,8 +30,20 @@ export default {
     name: '시작/Flutter 겉핥기',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.04.hello-world.md'),
   },
+  '/flutter/Fast-Campus/2019-05-11/add-button' : {
+    name: '시작/Flutter 겉핥기: -버튼 추가',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.05.add-button.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/add-button-func' : {
+    name: '시작/Flutter 겉핥기: -버튼 기능',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.06.add-button-func.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/add-button-func' : {
+    name: '시작/[미션] 다른 버튼 추가',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.07.first-mission.md'),
+  },
   '/flutter/Fast-Campus/2019-05-11/flutter-project-structure' : {
-    name: '시작/[보너스] 프로젝트 구조 겉핥기',
+    name: '시작/[설명충] 프로젝트 구조 겉핥기',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.alpha.00.flutter-project-structure.md'),
   },
 

@@ -62,7 +62,7 @@ class Lecture extends Component {
       const info = path_map[path];
       
       left_menus.push(
-        <div key={path} style={{paddingLeft: `${depth*2}rem`}}>
+        <div key={path} style={{paddingLeft: `${depth*1.5}rem`}}>
           <Link style={{color: '#5C6975'}} to={(info.md_source_path === undefined)? undefined: info.path}>
             <h6
               style={{
