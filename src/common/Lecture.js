@@ -17,7 +17,7 @@ class Lecture extends Component {
     
     return (
       <div className="d-flex" style={{minHeight:'100%'}}>
-        <div className="pt-4 pl-4" style={{flex:'0 0 15rem', backgroundColor:'#F5F7F9'}}>
+        <div className="pt-4 pl-4" style={{flex:'0 0 18rem', backgroundColor:'#F5F7F9'}}>
           {this._makeLeftMenu()}
         </div>
         <div className="py-5 pl-5">
@@ -64,7 +64,14 @@ class Lecture extends Component {
       left_menus.push(
         <div key={path} style={{paddingLeft: `${depth*2}rem`}}>
           <Link style={{color: '#5C6975'}} to={(info.md_source_path === undefined)? undefined: info.path}>
-            <h6>{path}</h6>
+            <h6
+              style={{
+                fontWeight: (window.location.pathname === info.path)? 'bolder': 'normal',
+                textDecoration: (window.location.pathname === info.path)? 'underline': '',
+              }}
+            >
+              {path}
+            </h6>
           </Link>
         </div>
       );

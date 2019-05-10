@@ -27,8 +27,12 @@ export default {
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.03.create-project.md'),
   },
   '/flutter/Fast-Campus/2019-05-11/hello-world' : {
-    name: '시작/Flutter 겉 핥기',
+    name: '시작/Flutter 겉핥기',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.04.hello-world.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/flutter-project-structure' : {
+    name: '시작/[보너스] 프로젝트 구조 겉핥기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.alpha.00.flutter-project-structure.md'),
   },
 
   
