@@ -46,6 +46,44 @@ export default {
     name: '시작/[설명충] 프로젝트 구조 겉핥기',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/01.alpha.00.flutter-project-structure.md'),
   },
+  
+
+  '/flutter/Fast-Campus/2019-05-11/create-login-widget' : {
+    name: 'Widget & State/로그인 위젯 추가하기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.00.create-login-widget.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-login-widget/scaffold-safe-area' : {
+    name: 'Widget & State/로그인 위젯 구성하기/Scaffold, SafeArea 추가',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.01.00.scaffold-safe-area.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-login-widget/title' : {
+    name: 'Widget & State/로그인 위젯 구성하기/타이틀 수정',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.01.01.title.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-login-widget/text-field' : {
+    name: 'Widget & State/로그인 위젯 구성하기/이메일, 패스워드 추가',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.01.02.text-field.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-login-widget/sign-in-sign-up' : {
+    name: 'Widget & State/로그인 위젯 구성하기/[미션] 아래 버튼들 추가',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.01.03.sign-in-sign-up.md'),
+  },
 
   
+  '/flutter/Fast-Campus/2019-05-11/create-main-widget' : {
+    name: 'Widget & State/메인 위젯 추가하기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.02.create-main-widget.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/tab-bar' : {
+    name: 'Widget & State/메인 위젯 구성하기/탭바 추가',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.00.tab-bar.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/profile' : {
+    name: 'Widget & State/메인 위젯 구성하기/프로필',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.01.profile.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/item-list' : {
+    name: 'Widget & State/메인 위젯 구성하기/아이템 리스트',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.02.item-list.md'),
+  },
 };

@@ -35,6 +35,13 @@ class MdView extends Component {
           renderers={{
             code: CodeBlock,
           }}
+          transformLinkUri={
+            (input) => {
+              return /^https?:/.test(input)
+                ? input
+                : `${address}/${input}`
+            }
+          }
           transformImageUri={
             (input) => {
               return /^https?:/.test(input)
