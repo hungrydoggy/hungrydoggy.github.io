@@ -58,12 +58,22 @@ class Lecture extends Component {
   }
 
   _makeLeftMenu_step (left_menus, path_map, depth) {
+    const __getFirstPath = (info) => {
+      if (info.path !== undefined)
+        return info.path;
+      
+      return __getFirstPath(info[Object.keys(info)[0]]);
+    };
+
     for (const path in path_map) {
       const info = path_map[path];
       
       left_menus.push(
         <div key={path} style={{paddingLeft: `${depth*1.5}rem`}}>
-          <Link style={{color: '#5C6975'}} to={(info.md_source_path === undefined)? undefined: info.path}>
+          <Link
+            style={{color: '#5C6975'}}
+            to={(info.md_source_path === undefined)? __getFirstPath(info): info.path}
+          >
             <h6
               style={{
                 fontWeight: (window.location.pathname === info.path)? 'bolder': 'normal',

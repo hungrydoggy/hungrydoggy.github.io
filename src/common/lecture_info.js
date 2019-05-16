@@ -78,12 +78,20 @@ export default {
     name: 'Widget & State/메인 위젯 구성하기/탭바 추가',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.00.tab-bar.md'),
   },
-  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/profile' : {
-    name: 'Widget & State/메인 위젯 구성하기/프로필',
-    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.01.profile.md'),
+  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/profile-image' : {
+    name: 'Widget & State/메인 위젯 구성하기/프로필: 이미지',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.01.profile-image.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/profile-mission' : {
+    name: 'Widget & State/메인 위젯 구성하기/[미션] 프로필: 나머지',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.02.profile-mission.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/profile-additional-tip' : {
+    name: 'Widget & State/메인 위젯 구성하기/[팁] 프로필: 스크롤과 크기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.03.profile-additional-tip.md'),
   },
   '/flutter/Fast-Campus/2019-05-11/revise-main-widget/item-list' : {
     name: 'Widget & State/메인 위젯 구성하기/아이템 리스트',
-    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.02.item-list.md'),
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.04.item-list.md'),
   },
 };
