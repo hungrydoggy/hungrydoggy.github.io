@@ -87,11 +87,19 @@ export default {
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.02.profile-mission.md'),
   },
   '/flutter/Fast-Campus/2019-05-11/revise-main-widget/profile-additional-tip' : {
-    name: 'Widget & State/메인 위젯 구성하기/[팁] 프로필: 스크롤과 크기',
+    name: 'Widget & State/메인 위젯 구성하기/프로필: 스크롤과 크기',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.03.profile-additional-tip.md'),
   },
   '/flutter/Fast-Campus/2019-05-11/revise-main-widget/item-list' : {
     name: 'Widget & State/메인 위젯 구성하기/아이템 리스트',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.04.item-list.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/revise-main-widget/item-detail' : {
+    name: 'Widget & State/메인 위젯 구성하기/아이템 디테일',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.03.05.item-detail.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/second-homework' : {
+    name: 'Widget & State/Widget & State 숙제',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.99.homework.md'),
   },
 };
