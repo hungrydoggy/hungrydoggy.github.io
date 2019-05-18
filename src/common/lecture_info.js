@@ -114,6 +114,10 @@ export default {
     name: 'Widget & State/컨트롤러/장바구니',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.04.01.controller-cart.md'),
   },
+  '/flutter/Fast-Campus/2019-05-11/controller/tab-controller' : {
+    name: 'Widget & State/컨트롤러/TabController',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.04.02.tab-controller.md'),
+  },
   '/flutter/Fast-Campus/2019-05-11/second-homework' : {
     name: 'Widget & State/Widget & State 숙제',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.99.homework.md'),

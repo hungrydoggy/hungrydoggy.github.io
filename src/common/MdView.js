@@ -7,8 +7,8 @@ import CodeBlock from './CodeBlock';
 import './github-markdown.css';
 
 
-// const address = 'https://hungrydoggy.github.io';
-const address = 'http://localhost:3000';
+const address = 'https://hungrydoggy.github.io';
+// const address = 'http://localhost:3000';
 
 class MdView extends Component {
   constructor (props) {
