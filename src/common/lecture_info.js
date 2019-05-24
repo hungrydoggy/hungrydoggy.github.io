@@ -120,6 +120,48 @@ export default {
   },
   '/flutter/Fast-Campus/2019-05-11/second-homework' : {
     name: 'Widget & State/Widget & State 숙제',
-    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.99.homework.md'),
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.05.homework.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/form' : {
+    name: 'Widget & State/Form을 이용한 회원가입',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/02.06.form.md'),
+  },
+
+
+  '/flutter/Fast-Campus/2019-05-11/with-backend/fetch-data' : {
+    name: 'Backend와 연결/data를 Http로 받아오기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.00.fetch-data.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/use-future-builder' : {
+    name: 'Backend와 연결/FutureBuilder를 이용해 꾸미기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.01.use-future-builder.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/make-custom-async-widget' : {
+    name: 'Backend와 연결/직접 비동기 위젯을 구현해보기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.02.make-custom-async-widget.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/bind-register' : {
+    name: 'Backend와 연결/회원가입 연동',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.03.bind-register.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/make-loginable' : {
+    name: 'Backend와 연결/로그인 가능하게 하기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.04.make-loginable.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/make-server-api' : {
+    name: 'Backend와 연결/ServerApi 유틸 만들기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.05.make-server-api.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/backend-spec' : {
+    name: 'Backend와 연결/Backend api 내역',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.06.backend-spec.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/bind-item-list' : {
+    name: 'Backend와 연결/아이템 리스트 연동',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.07.bind-item-list.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/bind-cart' : {
+    name: 'Backend와 연결/장바구니 연동',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.08.bind-cart.md'),
   },
 };

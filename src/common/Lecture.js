@@ -17,7 +17,7 @@ class Lecture extends Component {
     
     return (
       <div className="d-flex" style={{minHeight:'100%'}}>
-        <div className="pt-4 pl-4" style={{flex:'0 0 18rem', backgroundColor:'#F5F7F9'}}>
+        <div className="py-4 pl-4" style={{flex:'0 0 18rem', backgroundColor:'#F5F7F9'}}>
           {this._makeLeftMenu()}
         </div>
         <div className="py-5 pl-5">
