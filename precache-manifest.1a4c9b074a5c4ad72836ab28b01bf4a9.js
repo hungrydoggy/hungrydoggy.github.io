@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8512cb862e8185bba6fbf0858123262b",
+    "revision": "c2acfa6785faa25dce34bade592dcb27",
     "url": "/index.html"
   },
   {
-    "revision": "564d26bedae2bcc608ca",
+    "revision": "62da5a0083392939911a",
     "url": "/static/css/2.e9aa35d9.chunk.css"
   },
   {
-    "revision": "5d0d99d064beb80a6414",
-    "url": "/static/css/main.e0458805.chunk.css"
+    "revision": "b3cdb8af9fb2ce28c9e1",
+    "url": "/static/css/main.644134fd.chunk.css"
   },
   {
-    "revision": "564d26bedae2bcc608ca",
-    "url": "/static/js/2.805192be.chunk.js"
+    "revision": "62da5a0083392939911a",
+    "url": "/static/js/2.af8abdb9.chunk.js"
   },
   {
-    "revision": "5d0d99d064beb80a6414",
-    "url": "/static/js/main.c9f10f10.chunk.js"
+    "revision": "b3cdb8af9fb2ce28c9e1",
+    "url": "/static/js/main.33d15097.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -137,7 +137,63 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "4b74c9c9f95f21b12c0268c0d1cbe260",
-    "url": "/static/media/02.99.homework.4b74c9c9.md"
+    "url": "/static/media/02.05.homework.4b74c9c9.md"
+  },
+  {
+    "revision": "69744c31755cf7b466ef15824d613ffc",
+    "url": "/static/media/02.06.form.69744c31.md"
+  },
+  {
+    "revision": "908fda9e42934aa74e18f5c2210c647b",
+    "url": "/static/media/03.00.fetch-data.908fda9e.md"
+  },
+  {
+    "revision": "98bf75cf187575b2491e8ba3e9945744",
+    "url": "/static/media/03.01.use-future-builder.98bf75cf.md"
+  },
+  {
+    "revision": "931577f4f800b62589bdf5d1c3f03ab4",
+    "url": "/static/media/03.02.make-custom-async-widget.931577f4.md"
+  },
+  {
+    "revision": "031ad5338fc9279d5fd82d91903deb27",
+    "url": "/static/media/03.03.bind-register.031ad533.md"
+  },
+  {
+    "revision": "db48cc11ec04a5220366dd52298a7a94",
+    "url": "/static/media/03.04.make-loginable.db48cc11.md"
+  },
+  {
+    "revision": "285070a4c6ff2fb9a64f9ec55d643168",
+    "url": "/static/media/03.05.make-server-api.285070a4.md"
+  },
+  {
+    "revision": "a73acfecff8bf2f7cf92a7d3ff37164f",
+    "url": "/static/media/03.06.backend-spec.a73acfec.md"
+  },
+  {
+    "revision": "4bc62afe5085846856b8b656b5219de8",
+    "url": "/static/media/03.07.bind-item-list.4bc62afe.md"
+  },
+  {
+    "revision": "1740237c3bc4196ebcff4cf1ecc398cb",
+    "url": "/static/media/03.08.bind-cart.1740237c.md"
+  },
+  {
+    "revision": "cf2945d948aee563d9d85863d98e4e1a",
+    "url": "/static/media/03.09.bind-item-detail.cf2945d9.md"
+  },
+  {
+    "revision": "f2c7e7ab3ed5171d1b1187b268a9d50a",
+    "url": "/static/media/03.10.bind-profile.f2c7e7ab.md"
+  },
+  {
+    "revision": "0d7efa3f2d4ebf38737121b4a261d466",
+    "url": "/static/media/03.11.make-profile-updatable.0d7efa3f.md"
+  },
+  {
+    "revision": "ff0c8b085af557d3a7cbee8a785decd9",
+    "url": "/static/media/03.12.third-homework.ff0c8b08.md"
   },
   {
     "revision": "1b5e118cc7b9713c959fb465db0ccc9f",
