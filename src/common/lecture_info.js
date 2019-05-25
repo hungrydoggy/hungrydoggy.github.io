@@ -164,4 +164,20 @@ export default {
     name: 'Backend와 연결/장바구니 연동',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.08.bind-cart.md'),
   },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/bind-item-detail' : {
+    name: 'Backend와 연결/아이템 디테일 연동',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.09.bind-item-detail.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/bind-profile' : {
+    name: 'Backend와 연결/[미션] 프로필 바인딩',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.10.bind-profile.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/make-profile-updatable' : {
+    name: 'Backend와 연결/프로필 업데이트 가능하게 하기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.11.make-profile-updatable.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/third-homework' : {
+    name: 'Backend와 연결/[숙제] backend 숙제',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.12.third-homework.md'),
+  },
 };
