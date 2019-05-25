@@ -7,9 +7,6 @@ import CodeBlock from './CodeBlock';
 import './github-markdown.css';
 
 
-// const address = 'https://hungrydoggy.github.io';
-const address = 'http://localhost:3000';
-
 class MdView extends Component {
   constructor (props) {
     super(props);
@@ -26,7 +23,6 @@ class MdView extends Component {
   }
 
   render () {
-    
     return (
       <div className="markdown-body">
         <ReactMarkdown
@@ -39,14 +35,14 @@ class MdView extends Component {
             (input) => {
               return /^https?:/.test(input)
                 ? input
-                : `${address}/${input}`
+                : `${window.location.origin}/${input}`
             }
           }
           transformImageUri={
             (input) => {
               return /^https?:/.test(input)
                 ? input
-                : `${address}/${input}`
+                : `${window.location.origin}/${input}`
             }
           }
         />
