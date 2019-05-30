@@ -184,4 +184,18 @@ export default {
     name: 'Backend와 연결/구매 처리',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.13.payment.md'),
   },
+  
+
+  '/flutter/Fast-Campus/2019-05-11/alpha/alert-dialog' : {
+    name: '심화 주제들/다이얼로그/Alert Dialog',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.00.00.alert-dialog.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/alpha/custom-dialog' : {
+    name: '심화 주제들/다이얼로그/Custom Dialog',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.00.01.custom-dialog.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/animation' : {
+    name: '심화 주제들/애니메이션',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.01.00.animation.md'),
+  },
 };
