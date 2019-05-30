@@ -180,4 +180,8 @@ export default {
     name: 'Backend와 연결/[숙제] backend 숙제',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.12.third-homework.md'),
   },
+  '/flutter/Fast-Campus/2019-05-11/with-backend/payment' : {
+    name: 'Backend와 연결/구매 처리',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/03.13.payment.md'),
+  },
 };

@@ -18,7 +18,7 @@
     "walk": "^2.3.14"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && ncp ./build/index.html ./build/404.html",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
