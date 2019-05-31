@@ -195,7 +195,7 @@ export default {
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.00.01.custom-dialog.md'),
   },
   '/flutter/Fast-Campus/2019-05-11/inherited-widget' : {
-    name: '심화 주제들/InheritedWidget',
+    name: '심화 주제들/[이론] InheritedWidget',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.01.inherited-widget.md'),
   },
   '/flutter/Fast-Campus/2019-05-11/animation/loading-wrapper-with-animation' : {
@@ -205,5 +205,29 @@ export default {
   '/flutter/Fast-Campus/2019-05-11/animation/hero-widget' : {
     name: '심화 주제들/애니메이션/Hero 위젯 적용하기',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.02.01.hero-widget.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/push-notification' : {
+    name: '심화 주제들/Push Notification',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.03.push-notification.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/release-buld' : {
+    name: '심화 주제들/Release Build 만들기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.04.release-build.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/small-tips' : {
+    name: '심화 주제들/작은 팁들',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.05.small-tips.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/show-by-platform' : {
+    name: '심화 주제들/각 플랫폼 스타일로 표현하기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.06.show-by-platform.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/show-by-platform' : {
+    name: '심화 주제들/각 플랫폼 스타일로 표현하기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.06.show-by-platform.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/fourth-homework' : {
+    name: '심화 주제들/[숙제] 애니메이션 숙제',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.07.fourth-homework.md'),
   },
 };
