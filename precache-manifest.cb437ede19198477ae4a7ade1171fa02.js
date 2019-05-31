@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "554b6048d9a0c4c6f6fe8ad1e494cb5f",
+    "revision": "e86f5af9c7aae9cb1bbe5bff1db2bd4b",
     "url": "/index.html"
   },
   {
-    "revision": "62da5a0083392939911a",
+    "revision": "303bf51bfff2c148f13e",
     "url": "/static/css/2.e9aa35d9.chunk.css"
   },
   {
-    "revision": "9475177e448325e3a64c",
+    "revision": "48704599330a7d5a3691",
     "url": "/static/css/main.644134fd.chunk.css"
   },
   {
-    "revision": "62da5a0083392939911a",
-    "url": "/static/js/2.af8abdb9.chunk.js"
+    "revision": "303bf51bfff2c148f13e",
+    "url": "/static/js/2.04ebaf93.chunk.js"
   },
   {
-    "revision": "9475177e448325e3a64c",
-    "url": "/static/js/main.1211b9ef.chunk.js"
+    "revision": "48704599330a7d5a3691",
+    "url": "/static/js/main.3d65576a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "b9ea139801155e52c73b6361afd4822d",
-    "url": "/static/media/00.00.intro.b9ea1398.md"
+    "revision": "d6df23ee7166220c12e023eb4557e9ef",
+    "url": "/static/media/00.00.intro.d6df23ee.md"
   },
   {
     "revision": "c7a0f9406637e48f1b60572470fa7f3b",
@@ -168,8 +168,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/03.05.make-server-api.285070a4.md"
   },
   {
-    "revision": "77cddd575c230cb6fbdd21f1ac00ea3a",
-    "url": "/static/media/03.06.backend-spec.77cddd57.md"
+    "revision": "a8a52f9f7922795b238ee67f06aafaf0",
+    "url": "/static/media/03.06.backend-spec.a8a52f9f.md"
   },
   {
     "revision": "4bc62afe5085846856b8b656b5219de8",
@@ -194,6 +194,50 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72b7aaf88e8d307ba96a7a001a6f5235",
     "url": "/static/media/03.12.third-homework.72b7aaf8.md"
+  },
+  {
+    "revision": "b66e2af9e2a1f85ae73436586b712ed6",
+    "url": "/static/media/03.13.payment.b66e2af9.md"
+  },
+  {
+    "revision": "ddcc6e320bff0af65526715a3786be07",
+    "url": "/static/media/04.00.00.alert-dialog.ddcc6e32.md"
+  },
+  {
+    "revision": "7927f18f377a926971d043aefb1aa079",
+    "url": "/static/media/04.00.01.custom-dialog.7927f18f.md"
+  },
+  {
+    "revision": "5e3f8e9f38dada37ea67be110f6f500a",
+    "url": "/static/media/04.01.inherited-widget.5e3f8e9f.md"
+  },
+  {
+    "revision": "fb67000b8dcf548f09b7858812f2b2b0",
+    "url": "/static/media/04.02.00.loading-wrapper-with-animation.fb67000b.md"
+  },
+  {
+    "revision": "cf443b2fe8f0f6b6d8a445ab92be35ea",
+    "url": "/static/media/04.02.01.hero-widget.cf443b2f.md"
+  },
+  {
+    "revision": "d4aa65957bf13e87f22a9e03411455ba",
+    "url": "/static/media/04.03.push-notification.d4aa6595.md"
+  },
+  {
+    "revision": "7b217c57100cd16b8ec8880b15b11f50",
+    "url": "/static/media/04.04.release-build.7b217c57.md"
+  },
+  {
+    "revision": "9344be158b6ba4c0b4fcf9c89eba603c",
+    "url": "/static/media/04.05.small-tips.9344be15.md"
+  },
+  {
+    "revision": "ed97633d01b06a67a3306c0fa2efc40f",
+    "url": "/static/media/04.06.show-by-platform.ed97633d.md"
+  },
+  {
+    "revision": "ebde643a10ab4cfb609d680286392b98",
+    "url": "/static/media/04.07.fourth-homework.ebde643a.md"
   },
   {
     "revision": "1b5e118cc7b9713c959fb465db0ccc9f",
