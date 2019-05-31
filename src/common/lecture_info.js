@@ -194,8 +194,16 @@ export default {
     name: '심화 주제들/다이얼로그/Custom Dialog',
     md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.00.01.custom-dialog.md'),
   },
-  '/flutter/Fast-Campus/2019-05-11/animation' : {
-    name: '심화 주제들/애니메이션',
-    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.01.00.animation.md'),
+  '/flutter/Fast-Campus/2019-05-11/inherited-widget' : {
+    name: '심화 주제들/InheritedWidget',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.01.inherited-widget.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/animation/loading-wrapper-with-animation' : {
+    name: '심화 주제들/애니메이션/로딩할때 애니메이션 주기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.02.00.loading-wrapper-with-animation.md'),
+  },
+  '/flutter/Fast-Campus/2019-05-11/animation/hero-widget' : {
+    name: '심화 주제들/애니메이션/Hero 위젯 적용하기',
+    md_source_path: require('../md/flutter/Fast Campus/2019-05-11/04.02.01.hero-widget.md'),
   },
 };
