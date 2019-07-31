@@ -8,8 +8,21 @@ import Lecture from './common/Lecture';
 
 
 class App extends Component {
+  constructor (props) {
+    super(props);
+
+    this.lecture_paths = [];
+    for (const pathhead in lecture_info) {
+      const info = lecture_info[pathhead];
+      for (const subpath in info) {
+        const fullpath = `${pathhead}${subpath}`;
+        this.lecture_paths.push(fullpath);
+      }
+    }
+  }
+
   render() {
-    const lecture_routes = Object.keys(lecture_info).map((path) => {
+    const lecture_routes = this.lecture_paths.map((path) => {
       return <Route key={path} exact path={path} component={Lecture}/>;
     });
 

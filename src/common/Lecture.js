@@ -11,6 +11,13 @@ class Lecture extends Component {
   constructor (props) {
     super(props);
     
+    this.state = {
+      md_info: {},
+    };
+  }
+
+  componentDidMount () {
+    this._fetchAndRefresh();
   }
 
   render () {
@@ -22,7 +29,10 @@ class Lecture extends Component {
         </div>
         <div className="py-5 pl-5">
           <div className="ml-5">
-            <MdView sourcePath={lecture_info[window.location.pathname].md_source_path}/>
+            {
+              (this.state.md_info[window.location.pathname] === undefined)? null:
+              <MdView sourcePath={this.state.md_info[window.location.pathname].md_source_path}/>
+            }
           </div>
         </div>
       </div>
@@ -30,11 +40,39 @@ class Lecture extends Component {
   }
 
 
+  async _fetchAndRefresh () {
+    const pathhead = this._findPathHead();
+    if (pathhead === null) {
+      this.setState({
+        md_info: {},
+      });
+      return;
+    }
+
+    const md_info = {};
+    for (const subpath in lecture_info[pathhead]) {
+      const fullpath = `${pathhead}${subpath}`;
+      md_info[fullpath] = lecture_info[pathhead][subpath];
+    }
+
+    this.setState({
+      md_info,
+    });
+  }
+
+  _findPathHead () {
+    for (const pathhead in lecture_info) {
+      if (window.location.pathname.startsWith(pathhead) === true)
+        return pathhead;
+    }
+    return null;
+  }
+
   _makeLeftMenu () {
     // make path_map
     const path_map = {};
-    Object.keys(lecture_info).map((fullpath) => {
-      const info = lecture_info[fullpath];
+    Object.keys(this.state.md_info).map((fullpath) => {
+      const info = this.state.md_info[fullpath];
       info.path = fullpath;
 
       const paths = info.name.split('/');
