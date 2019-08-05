@@ -1,1 +1,1 @@
-npm run deploy && pause
+npm run deploy && timeout /t -1

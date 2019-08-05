@@ -84,38 +84,38 @@ export default {
       name: 'Widget & State/메인 위젯 구성하기/[미션] 프로필: 나머지',
       md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.02.profile-mission.md'),
     },
-    'revise-main-widget/profile-additional-tip' : {
-      name: 'Widget & State/메인 위젯 구성하기/프로필: 스크롤과 크기',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.03.profile-additional-tip.md'),
-    },
-    'revise-main-widget/item-list' : {
-      name: 'Widget & State/메인 위젯 구성하기/아이템 리스트',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.04.item-list.md'),
-    },
-    'revise-main-widget/item-detail' : {
-      name: 'Widget & State/메인 위젯 구성하기/아이템 디테일',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.05.item-detail.md'),
-    },
-    'revise-main-widget/item-detail-scroll-area' : {
-      name: 'Widget & State/메인 위젯 구성하기/아이템 디테일: 스크롤 영역',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.06.item-detail-scroll-area.md'),
-    },
-    'revise-main-widget/cart' : {
-      name: 'Widget & State/메인 위젯 구성하기/[미션] 장바구니',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.07.cart.md'),
-    },
-    'controller/text-editting-controller' : {
-      name: 'Widget & State/컨트롤러/TextEdittingController',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.00.text-editting-controller.md'),
-    },
-    'controller/cart' : {
-      name: 'Widget & State/컨트롤러/장바구니',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.01.controller-cart.md'),
-    },
-    'controller/tab-controller' : {
-      name: 'Widget & State/컨트롤러/TabController',
-      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.02.tab-controller.md'),
-    },
+    // 'revise-main-widget/profile-additional-tip' : {
+    //   name: 'Widget & State/메인 위젯 구성하기/프로필: 스크롤과 크기',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.03.profile-additional-tip.md'),
+    // },
+    // 'revise-main-widget/item-list' : {
+    //   name: 'Widget & State/메인 위젯 구성하기/아이템 리스트',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.04.item-list.md'),
+    // },
+    // 'revise-main-widget/item-detail' : {
+    //   name: 'Widget & State/메인 위젯 구성하기/아이템 디테일',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.05.item-detail.md'),
+    // },
+    // 'revise-main-widget/item-detail-scroll-area' : {
+    //   name: 'Widget & State/메인 위젯 구성하기/아이템 디테일: 스크롤 영역',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.06.item-detail-scroll-area.md'),
+    // },
+    // 'revise-main-widget/cart' : {
+    //   name: 'Widget & State/메인 위젯 구성하기/[미션] 장바구니',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.07.cart.md'),
+    // },
+    // 'controller/text-editting-controller' : {
+    //   name: 'Widget & State/컨트롤러/TextEdittingController',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.00.text-editting-controller.md'),
+    // },
+    // 'controller/cart' : {
+    //   name: 'Widget & State/컨트롤러/장바구니',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.01.controller-cart.md'),
+    // },
+    // 'controller/tab-controller' : {
+    //   name: 'Widget & State/컨트롤러/TabController',
+    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.02.tab-controller.md'),
+    // },
     // 'second-homework' : {
     //   name: 'Widget & State/Widget & State 숙제',
     //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.05.homework.md'),
