@@ -84,103 +84,103 @@ export default {
       name: 'Widget & State/메인 위젯 구성하기/[미션] 프로필: 나머지',
       md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.02.profile-mission.md'),
     },
-    // 'revise-main-widget/profile-additional-tip' : {
-    //   name: 'Widget & State/메인 위젯 구성하기/프로필: 스크롤과 크기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.03.profile-additional-tip.md'),
-    // },
-    // 'revise-main-widget/item-list' : {
-    //   name: 'Widget & State/메인 위젯 구성하기/아이템 리스트',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.04.item-list.md'),
-    // },
-    // 'revise-main-widget/item-detail' : {
-    //   name: 'Widget & State/메인 위젯 구성하기/아이템 디테일',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.05.item-detail.md'),
-    // },
-    // 'revise-main-widget/item-detail-scroll-area' : {
-    //   name: 'Widget & State/메인 위젯 구성하기/아이템 디테일: 스크롤 영역',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.06.item-detail-scroll-area.md'),
-    // },
-    // 'revise-main-widget/cart' : {
-    //   name: 'Widget & State/메인 위젯 구성하기/[미션] 장바구니',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.07.cart.md'),
-    // },
-    // 'controller/text-editting-controller' : {
-    //   name: 'Widget & State/컨트롤러/TextEdittingController',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.00.text-editting-controller.md'),
-    // },
-    // 'controller/cart' : {
-    //   name: 'Widget & State/컨트롤러/장바구니',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.01.controller-cart.md'),
-    // },
-    // 'controller/tab-controller' : {
-    //   name: 'Widget & State/컨트롤러/TabController',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.02.tab-controller.md'),
-    // },
-    // 'second-homework' : {
-    //   name: 'Widget & State/Widget & State 숙제',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.05.homework.md'),
-    // },
-    // 'form' : {
-    //   name: 'Widget & State/Form을 이용한 회원가입',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.06.form.md'),
-    // },
+    'revise-main-widget/profile-additional-tip' : {
+      name: 'Widget & State/메인 위젯 구성하기/프로필: 스크롤과 크기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.03.profile-additional-tip.md'),
+    },
+    'revise-main-widget/item-list' : {
+      name: 'Widget & State/메인 위젯 구성하기/아이템 리스트',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.04.item-list.md'),
+    },
+    'revise-main-widget/item-detail' : {
+      name: 'Widget & State/메인 위젯 구성하기/아이템 디테일',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.05.item-detail.md'),
+    },
+    'revise-main-widget/item-detail-scroll-area' : {
+      name: 'Widget & State/메인 위젯 구성하기/아이템 디테일: 스크롤 영역',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.06.item-detail-scroll-area.md'),
+    },
+    'revise-main-widget/cart' : {
+      name: 'Widget & State/메인 위젯 구성하기/[미션] 장바구니',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.03.07.cart.md'),
+    },
+    'controller/text-editting-controller' : {
+      name: 'Widget & State/컨트롤러/TextEdittingController',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.00.text-editting-controller.md'),
+    },
+    'controller/cart' : {
+      name: 'Widget & State/컨트롤러/장바구니',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.01.controller-cart.md'),
+    },
+    'controller/tab-controller' : {
+      name: 'Widget & State/컨트롤러/TabController',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.04.02.tab-controller.md'),
+    },
+    'mission-register' : {
+      name: 'Widget & State/[미션] 회원가입 뷰 만들어 보기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.05.mission-register.md'),
+    },
+    'form' : {
+      name: 'Widget & State/Form을 이용한 회원가입',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/02.06.form.md'),
+    },
 
-    // 'with-backend/fetch-data' : {
-    //   name: 'Backend와 연결/data를 Http로 받아오기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.00.fetch-data.md'),
-    // },
-    // 'with-backend/use-future-builder' : {
-    //   name: 'Backend와 연결/FutureBuilder를 이용해 꾸미기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.01.use-future-builder.md'),
-    // },
-    // 'with-backend/make-custom-async-widget' : {
-    //   name: 'Backend와 연결/직접 비동기 위젯을 구현해보기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.02.make-custom-async-widget.md'),
-    // },
-    // 'with-backend/bind-register' : {
-    //   name: 'Backend와 연결/회원가입 연동',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.03.bind-register.md'),
-    // },
-    // 'with-backend/make-loginable' : {
-    //   name: 'Backend와 연결/로그인 가능하게 하기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.04.make-loginable.md'),
-    // },
-    // 'with-backend/make-server-api' : {
-    //   name: 'Backend와 연결/ServerApi 유틸 만들기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.05.make-server-api.md'),
-    // },
-    // 'with-backend/backend-spec' : {
-    //   name: 'Backend와 연결/Backend api 내역',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.06.backend-spec.md'),
-    // },
-    // 'with-backend/bind-item-list' : {
-    //   name: 'Backend와 연결/아이템 리스트 연동',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.07.bind-item-list.md'),
-    // },
-    // 'with-backend/bind-cart' : {
-    //   name: 'Backend와 연결/장바구니 연동',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.08.bind-cart.md'),
-    // },
-    // 'with-backend/bind-item-detail' : {
-    //   name: 'Backend와 연결/아이템 디테일 연동',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.09.bind-item-detail.md'),
-    // },
-    // 'with-backend/bind-profile' : {
-    //   name: 'Backend와 연결/[미션] 프로필 바인딩',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.10.bind-profile.md'),
-    // },
-    // 'with-backend/make-profile-updatable' : {
-    //   name: 'Backend와 연결/프로필 업데이트 가능하게 하기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.11.make-profile-updatable.md'),
-    // },
-    // 'with-backend/third-homework' : {
-    //   name: 'Backend와 연결/[숙제] backend 숙제',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.12.third-homework.md'),
-    // },
-    // 'with-backend/payment' : {
-    //   name: 'Backend와 연결/구매 처리',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.13.payment.md'),
-    // },
+    'with-backend/fetch-data' : {
+      name: 'Backend와 연결/data를 Http로 받아오기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.00.fetch-data.md'),
+    },
+    'with-backend/use-future-builder' : {
+      name: 'Backend와 연결/FutureBuilder를 이용해 꾸미기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.01.use-future-builder.md'),
+    },
+    'with-backend/make-custom-async-widget' : {
+      name: 'Backend와 연결/직접 비동기 위젯을 구현해보기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.02.make-custom-async-widget.md'),
+    },
+    'with-backend/bind-register' : {
+      name: 'Backend와 연결/회원가입 연동',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.03.bind-register.md'),
+    },
+    'with-backend/make-loginable' : {
+      name: 'Backend와 연결/로그인 가능하게 하기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.04.make-loginable.md'),
+    },
+    'with-backend/make-server-api' : {
+      name: 'Backend와 연결/ServerApi 유틸 만들기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.05.make-server-api.md'),
+    },
+    'with-backend/backend-spec' : {
+      name: 'Backend와 연결/Backend api 내역',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.06.backend-spec.md'),
+    },
+    'with-backend/bind-item-list' : {
+      name: 'Backend와 연결/아이템 리스트 연동',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.07.bind-item-list.md'),
+    },
+    'with-backend/bind-cart' : {
+      name: 'Backend와 연결/장바구니 연동',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.08.bind-cart.md'),
+    },
+    'with-backend/bind-item-detail' : {
+      name: 'Backend와 연결/아이템 디테일 연동',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.09.bind-item-detail.md'),
+    },
+    'with-backend/bind-profile' : {
+      name: 'Backend와 연결/[미션] 프로필 바인딩',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.10.bind-profile.md'),
+    },
+    'with-backend/make-profile-updatable' : {
+      name: 'Backend와 연결/프로필 업데이트 가능하게 하기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.11.make-profile-updatable.md'),
+    },
+    'with-backend/third-homework' : {
+      name: 'Backend와 연결/[미션] 장바구니에 넣기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.12.mission-put-it-cart.md'),
+    },
+    'with-backend/payment' : {
+      name: 'Backend와 연결/구매 처리',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.13.payment.md'),
+    },
     
     // 'alpha/alert-dialog' : {
     //   name: '심화 주제들/다이얼로그/Alert Dialog',
