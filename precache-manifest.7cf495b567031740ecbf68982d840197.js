@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8925b8e80dfd01680d030550cfb35f4c",
+    "revision": "a5b95e61005a3896f359dff81e5fce5a",
     "url": "/index.html"
   },
   {
-    "revision": "36d7c2e654e879c5b797",
+    "revision": "025a7f56e08eed43a8c3",
     "url": "/static/css/2.e9aa35d9.chunk.css"
   },
   {
-    "revision": "4c4643eb3541a8744a1e",
+    "revision": "f8b40fe99e001b39adbe",
     "url": "/static/css/main.644134fd.chunk.css"
   },
   {
-    "revision": "36d7c2e654e879c5b797",
-    "url": "/static/js/2.0acda780.chunk.js"
+    "revision": "025a7f56e08eed43a8c3",
+    "url": "/static/js/2.b0a1cb79.chunk.js"
   },
   {
-    "revision": "4c4643eb3541a8744a1e",
-    "url": "/static/js/main.09328620.chunk.js"
+    "revision": "f8b40fe99e001b39adbe",
+    "url": "/static/js/main.260a3512.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -168,6 +168,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/02.05.homework.4b74c9c9.md"
   },
   {
+    "revision": "37550c5d07bf037f4ff611bcc0e8b2e7",
+    "url": "/static/media/02.05.mission-register.37550c5d.md"
+  },
+  {
     "revision": "69744c31755cf7b466ef15824d613ffc",
     "url": "/static/media/02.06.form.69744c31.md"
   },
@@ -220,8 +224,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/03.11.make-profile-updatable.0d7efa3f.md"
   },
   {
+    "revision": "954c8c9948ba7aa8bb21cb2a17006540",
+    "url": "/static/media/03.12.mission-put-it-cart.954c8c99.md"
+  },
+  {
     "revision": "72b7aaf88e8d307ba96a7a001a6f5235",
     "url": "/static/media/03.12.third-homework.72b7aaf8.md"
+  },
+  {
+    "revision": "7f9591488c403ef9a7adaa14cb51d149",
+    "url": "/static/media/03.13.payment.7f959148.md"
   },
   {
     "revision": "b66e2af9e2a1f85ae73436586b712ed6",
