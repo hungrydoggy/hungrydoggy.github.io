@@ -226,6 +226,10 @@ export default {
       name: '심화 주제들/웹뷰 사용하기',
       md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.08.web-view.md'),
     },
+    'video-player' : {
+      name: '심화 주제들/비디오 플레이어 추가해보기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.09.video-player.md'),
+    },
     'fourth-homework' : {
       name: '심화 주제들/[숙제] 애니메이션 숙제',
       md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.99.fourth-homework.md'),
