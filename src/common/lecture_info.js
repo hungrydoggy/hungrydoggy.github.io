@@ -231,7 +231,7 @@ export default {
       md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.09.video-player.md'),
     },
     'fourth-homework' : {
-      name: '심화 주제들/[숙제] 애니메이션 숙제',
+      name: '심화 주제들/[미션] 애니메이션 미션',
       md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.99.fourth-homework.md'),
     },
   },
