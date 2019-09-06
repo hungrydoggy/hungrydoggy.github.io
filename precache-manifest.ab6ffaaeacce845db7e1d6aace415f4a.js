@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbc6d9d194dc979ac2a1841582201c5c",
+    "revision": "bc31fe834a0bb71f091ca1dc84932efa",
     "url": "/index.html"
   },
   {
-    "revision": "fbd50ebe48cb2a62f85c",
+    "revision": "ea05e9027b5df8fa8c87",
     "url": "/static/css/2.6b7be491.chunk.css"
   },
   {
-    "revision": "a5e50ce807a07eb3f41e",
+    "revision": "84ca85ccf2101036acbd",
     "url": "/static/css/main.e0458805.chunk.css"
   },
   {
-    "revision": "fbd50ebe48cb2a62f85c",
-    "url": "/static/js/2.68f65a15.chunk.js"
+    "revision": "ea05e9027b5df8fa8c87",
+    "url": "/static/js/2.dada571f.chunk.js"
   },
   {
-    "revision": "a5e50ce807a07eb3f41e",
-    "url": "/static/js/main.26a87289.chunk.js"
+    "revision": "84ca85ccf2101036acbd",
+    "url": "/static/js/main.5cb05c26.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -288,8 +288,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/04.07.fourth-homework.12ff2a6f.md"
   },
   {
-    "revision": "c0edb460f790ce26c18344ff9ea73254",
-    "url": "/static/media/04.07.zoom-in-out.c0edb460.md"
+    "revision": "58850b17fc53c71a1060d07cab25fe56",
+    "url": "/static/media/04.07.zoom-in-out.58850b17.md"
+  },
+  {
+    "revision": "c9a692b04523e0dbb58e0cb60837149e",
+    "url": "/static/media/04.08.web-view.c9a692b0.md"
   },
   {
     "revision": "12ff2a6fadcfbdaa7a40014f6b3681da",
