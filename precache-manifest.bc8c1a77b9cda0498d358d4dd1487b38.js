@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5b95e61005a3896f359dff81e5fce5a",
+    "revision": "f1432d7654f26d132e9f0f078ff7251b",
     "url": "/index.html"
   },
   {
-    "revision": "025a7f56e08eed43a8c3",
-    "url": "/static/css/2.e9aa35d9.chunk.css"
+    "revision": "0792d50cc6eac4633085",
+    "url": "/static/css/2.6b7be491.chunk.css"
   },
   {
-    "revision": "f8b40fe99e001b39adbe",
-    "url": "/static/css/main.644134fd.chunk.css"
+    "revision": "10206a9f8030b7b605f6",
+    "url": "/static/css/main.e0458805.chunk.css"
   },
   {
-    "revision": "025a7f56e08eed43a8c3",
-    "url": "/static/js/2.b0a1cb79.chunk.js"
+    "revision": "0792d50cc6eac4633085",
+    "url": "/static/js/2.65de071c.chunk.js"
   },
   {
-    "revision": "f8b40fe99e001b39adbe",
-    "url": "/static/js/main.260a3512.chunk.js"
+    "revision": "10206a9f8030b7b605f6",
+    "url": "/static/js/main.d416e051.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -216,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/03.09.bind-item-detail.cf2945d9.md"
   },
   {
+    "revision": "7d4102c6ef1feff04e1acbea04249554",
+    "url": "/static/media/03.10.bind-profile.7d4102c6.md"
+  },
+  {
     "revision": "f2c7e7ab3ed5171d1b1187b268a9d50a",
     "url": "/static/media/03.10.bind-profile.f2c7e7ab.md"
   },
@@ -224,16 +228,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/03.11.make-profile-updatable.0d7efa3f.md"
   },
   {
-    "revision": "954c8c9948ba7aa8bb21cb2a17006540",
-    "url": "/static/media/03.12.mission-put-it-cart.954c8c99.md"
+    "revision": "773e5ec404602942fc16822198b62489",
+    "url": "/static/media/03.12.mission-put-it-cart.773e5ec4.md"
   },
   {
     "revision": "72b7aaf88e8d307ba96a7a001a6f5235",
     "url": "/static/media/03.12.third-homework.72b7aaf8.md"
   },
   {
-    "revision": "7f9591488c403ef9a7adaa14cb51d149",
-    "url": "/static/media/03.13.payment.7f959148.md"
+    "revision": "b5ca1523495623fc82087c3664a6dc2b",
+    "url": "/static/media/03.13.payment.b5ca1523.md"
   },
   {
     "revision": "b66e2af9e2a1f85ae73436586b712ed6",
@@ -258,6 +262,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cf443b2fe8f0f6b6d8a445ab92be35ea",
     "url": "/static/media/04.02.01.hero-widget.cf443b2f.md"
+  },
+  {
+    "revision": "1935ceed3c72795478c272d858ad35fc",
+    "url": "/static/media/04.03.push-notification.1935ceed.md"
   },
   {
     "revision": "d4aa65957bf13e87f22a9e03411455ba",
