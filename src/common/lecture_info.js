@@ -182,50 +182,54 @@ export default {
       md_source_path: require('../md/flutter/Fast Campus/2019-08-03/03.13.payment.md'),
     },
     
-    // 'alpha/alert-dialog' : {
-    //   name: '심화 주제들/다이얼로그/Alert Dialog',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.00.00.alert-dialog.md'),
-    // },
-    // 'alpha/custom-dialog' : {
-    //   name: '심화 주제들/다이얼로그/Custom Dialog',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.00.01.custom-dialog.md'),
-    // },
-    // 'inherited-widget' : {
-    //   name: '심화 주제들/[이론] InheritedWidget',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.01.inherited-widget.md'),
-    // },
-    // 'animation/loading-wrapper-with-animation' : {
-    //   name: '심화 주제들/애니메이션/로딩할때 애니메이션 주기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.02.00.loading-wrapper-with-animation.md'),
-    // },
-    // 'animation/hero-widget' : {
-    //   name: '심화 주제들/애니메이션/Hero 위젯 적용하기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.02.01.hero-widget.md'),
-    // },
-    // 'push-notification' : {
-    //   name: '심화 주제들/Push Notification',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.03.push-notification.md'),
-    // },
-    // 'release-buld' : {
-    //   name: '심화 주제들/Release Build 만들기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.04.release-build.md'),
-    // },
-    // 'small-tips' : {
-    //   name: '심화 주제들/작은 팁들',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.05.small-tips.md'),
-    // },
-    // 'show-by-platform' : {
-    //   name: '심화 주제들/각 플랫폼 스타일로 표현하기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.06.show-by-platform.md'),
-    // },
-    // 'show-by-platform' : {
-    //   name: '심화 주제들/각 플랫폼 스타일로 표현하기',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.06.show-by-platform.md'),
-    // },
-    // 'fourth-homework' : {
-    //   name: '심화 주제들/[숙제] 애니메이션 숙제',
-    //   md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.07.fourth-homework.md'),
-    // },
+    'alpha/alert-dialog' : {
+      name: '심화 주제들/다이얼로그/Alert Dialog',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.00.00.alert-dialog.md'),
+    },
+    'alpha/custom-dialog' : {
+      name: '심화 주제들/다이얼로그/Custom Dialog',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.00.01.custom-dialog.md'),
+    },
+    'inherited-widget' : {
+      name: '심화 주제들/[이론] InheritedWidget',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.01.inherited-widget.md'),
+    },
+    'animation/loading-wrapper-with-animation' : {
+      name: '심화 주제들/애니메이션/로딩할때 애니메이션 주기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.02.00.loading-wrapper-with-animation.md'),
+    },
+    'animation/hero-widget' : {
+      name: '심화 주제들/애니메이션/Hero 위젯 적용하기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.02.01.hero-widget.md'),
+    },
+    'push-notification' : {
+      name: '심화 주제들/Push Notification',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.03.push-notification.md'),
+    },
+    'release-buld' : {
+      name: '심화 주제들/Release Build 만들기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.04.release-build.md'),
+    },
+    'small-tips' : {
+      name: '심화 주제들/작은 팁들',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.05.small-tips.md'),
+    },
+    'show-by-platform' : {
+      name: '심화 주제들/각 플랫폼 스타일로 표현하기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.06.show-by-platform.md'),
+    },
+    'zoom-in-out' : {
+      name: '심화 주제들/핀칭으로 줌 인-아웃 하기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.07.zoom-in-out.md'),
+    },
+    'web-view' : {
+      name: '심화 주제들/웹뷰 사용하기',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.08.web-view.md'),
+    },
+    'fourth-homework' : {
+      name: '심화 주제들/[숙제] 애니메이션 숙제',
+      md_source_path: require('../md/flutter/Fast Campus/2019-08-03/04.99.fourth-homework.md'),
+    },
   },
 
 
