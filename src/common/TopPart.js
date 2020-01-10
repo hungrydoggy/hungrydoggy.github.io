@@ -81,7 +81,7 @@ class TopPart extends Component {
       menus: [
         {
           name: 'Flutter - Fast Campus',
-          path: '/flutter/Fast-Campus/2019-08-03/intro',
+          path: '/flutter/Fast-Campus/2020-01-11/intro',
         },
         // {
         //   name: 'Flutter',
