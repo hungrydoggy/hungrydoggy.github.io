@@ -69,7 +69,6 @@ export default {
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/02.01.03.sign-in-sign-up.md'),
     },
 
-    /*
     'create-main-widget' : {
       name: 'Widget & State/메인 위젯 추가하기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/02.02.create-main-widget.md'),
@@ -147,6 +146,7 @@ export default {
       name: 'Backend와 연결/로그인 가능하게 하기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/03.04.make-loginable.md'),
     },
+    /*
     'with-backend/make-server-api' : {
       name: 'Backend와 연결/ServerApi 유틸 만들기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/03.05.make-server-api.md'),
