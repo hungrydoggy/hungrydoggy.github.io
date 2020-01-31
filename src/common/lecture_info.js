@@ -146,7 +146,6 @@ export default {
       name: 'Backend와 연결/로그인 가능하게 하기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/03.04.make-loginable.md'),
     },
-    /*
     'with-backend/make-server-api' : {
       name: 'Backend와 연결/ServerApi 유틸 만들기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/03.05.make-server-api.md'),
@@ -171,6 +170,7 @@ export default {
       name: 'Backend와 연결/[미션] 프로필 바인딩',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/03.10.bind-profile.md'),
     },
+    /*
     'with-backend/make-profile-updatable' : {
       name: 'Backend와 연결/프로필 업데이트 가능하게 하기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/03.11.make-profile-updatable.md'),
