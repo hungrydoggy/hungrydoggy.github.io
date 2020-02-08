@@ -203,7 +203,6 @@ export default {
       name: '심화 주제들/애니메이션/Hero 위젯 적용하기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.02.01.hero-widget.md'),
     },
-    /*
     'push-notification' : {
       name: '심화 주제들/Push Notification',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.03.push-notification.md'),
@@ -236,7 +235,6 @@ export default {
       name: '심화 주제들/[미션] 애니메이션 미션',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.99.fourth-homework.md'),
     },
-    //*/
   },
 
 
