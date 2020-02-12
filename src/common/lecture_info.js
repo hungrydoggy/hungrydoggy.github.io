@@ -231,6 +231,10 @@ export default {
       name: '심화 주제들/비디오 플레이어 추가해보기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.09.video-player.md'),
     },
+    'shared-preferences': {
+      name: '심화 주제들/SharedPreferences',
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.10.shared_preferences.md'),
+    },
     'fourth-homework' : {
       name: '심화 주제들/[미션] 애니메이션 미션',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.99.fourth-homework.md'),
