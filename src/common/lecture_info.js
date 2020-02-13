@@ -192,7 +192,7 @@ export default {
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.00.01.custom-dialog.md'),
     },
     'inherited-widget' : {
-      name: '심화 주제들/[이론] InheritedWidget',
+      name: '심화 주제들/InheritedWidget',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.01.inherited-widget.md'),
     },
     'animation/loading-wrapper-with-animation' : {
@@ -234,6 +234,10 @@ export default {
     'shared-preferences': {
       name: '심화 주제들/SharedPreferences',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.10.shared_preferences.md'),
+    },
+    'stream-and-provider': {
+      name: '심화 주제들/Stream & Provider',
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.12.stream-and-provider.md'),
     },
     'fourth-homework' : {
       name: '심화 주제들/[미션] 애니메이션 미션',
