@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.ef30fbd9.chunk.css",
-    "main.js": "/static/js/main.e7863764.chunk.js",
-    "main.js.map": "/static/js/main.e7863764.chunk.js.map",
+    "main.js": "/static/js/main.de6bdf46.chunk.js",
+    "main.js.map": "/static/js/main.de6bdf46.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.1d5ba807.chunk.css": "/static/css/2.1d5ba807.chunk.css",
-    "static/js/2.df48be41.chunk.js": "/static/js/2.df48be41.chunk.js",
-    "static/js/2.df48be41.chunk.js.map": "/static/js/2.df48be41.chunk.js.map",
+    "static/js/2.2b9592cc.chunk.js": "/static/js/2.2b9592cc.chunk.js",
+    "static/js/2.2b9592cc.chunk.js.map": "/static/js/2.2b9592cc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b048d2ac0f0bedba8e314179921c8845.js": "/precache-manifest.b048d2ac0f0bedba8e314179921c8845.js",
+    "precache-manifest.5576aefaaf69d44ea73eaf3d7cf1e381.js": "/precache-manifest.5576aefaaf69d44ea73eaf3d7cf1e381.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1d5ba807.chunk.css.map": "/static/css/2.1d5ba807.chunk.css.map",
     "static/css/main.ef30fbd9.chunk.css.map": "/static/css/main.ef30fbd9.chunk.css.map",
@@ -66,6 +66,7 @@
     "static/media/04.02.01.hero-widget.md": "/static/media/04.02.01.hero-widget.0772fac5.md",
     "static/media/04.03.push-notification.md": "/static/media/04.03.push-notification.6ded6103.md",
     "static/media/04.04.release-build.md": "/static/media/04.04.release-build.1b9643a7.md",
+    "static/media/04.05.key.md": "/static/media/04.05.key.5e81486e.md",
     "static/media/04.05.small-tips.md": "/static/media/04.05.small-tips.bbdb920a.md",
     "static/media/04.06.show-by-platform.md": "/static/media/04.06.show-by-platform.0e732927.md",
     "static/media/04.07.fourth-homework.md": "/static/media/04.07.fourth-homework.acd0d396.md",
@@ -73,7 +74,8 @@
     "static/media/04.08.web-view.md": "/static/media/04.08.web-view.369694bb.md",
     "static/media/04.09.video-player.md": "/static/media/04.09.video-player.c84cbc81.md",
     "static/media/04.10.shared_preferences.md": "/static/media/04.10.shared_preferences.f5309b6f.md",
-    "static/media/04.12.stream-and-provider.md": "/static/media/04.12.stream-and-provider.fa1a454e.md",
+    "static/media/04.11.stream-and-provider.md": "/static/media/04.11.stream-and-provider.fa1a454e.md",
+    "static/media/04.12.small-tips.md": "/static/media/04.12.small-tips.5d2ed9d8.md",
     "static/media/04.99.fourth-homework.md": "/static/media/04.99.fourth-homework.29977224.md",
     "static/media/home.md": "/static/media/home.5beb4d07.md"
   }
