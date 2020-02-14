@@ -211,37 +211,37 @@ export default {
       name: '심화 주제들/Release Build 만들기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.04.release-build.md'),
     },
+    'small-tips' : {
+      name: '심화 주제들/작은 팁들',
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.05.small-tips.md'),
+    },
     'key' : {
       name: '심화 주제들/Key를 꼭 사용해야 하는 경우',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.05.key.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.06.key.md'),
     },
     'show-by-platform' : {
       name: '심화 주제들/각 플랫폼 스타일로 표현하기',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.06.show-by-platform.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.07.show-by-platform.md'),
     },
     'zoom-in-out' : {
       name: '심화 주제들/핀칭으로 줌 인-아웃 하기',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.07.zoom-in-out.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.08.zoom-in-out.md'),
     },
     'web-view' : {
       name: '심화 주제들/웹뷰 사용하기',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.08.web-view.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.09.web-view.md'),
     },
     'video-player' : {
       name: '심화 주제들/비디오 플레이어 추가해보기',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.09.video-player.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.10.video-player.md'),
     },
     'shared-preferences': {
       name: '심화 주제들/SharedPreferences',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.10.shared_preferences.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.11.shared_preferences.md'),
     },
     'stream-and-provider': {
       name: '심화 주제들/Stream & Provider',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.11.stream-and-provider.md'),
-    },
-    'small-tips' : {
-      name: '심화 주제들/작은 팁들',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.12.small-tips.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.12.stream-and-provider.md'),
     },
     'fourth-homework' : {
       name: '심화 주제들/[미션] 애니메이션 미션',
