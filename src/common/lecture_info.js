@@ -211,9 +211,9 @@ export default {
       name: '심화 주제들/Release Build 만들기',
       md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.04.release-build.md'),
     },
-    'small-tips' : {
-      name: '심화 주제들/작은 팁들',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.05.small-tips.md'),
+    'key' : {
+      name: '심화 주제들/Key를 꼭 사용해야 하는 경우',
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.05.key.md'),
     },
     'show-by-platform' : {
       name: '심화 주제들/각 플랫폼 스타일로 표현하기',
@@ -237,7 +237,11 @@ export default {
     },
     'stream-and-provider': {
       name: '심화 주제들/Stream & Provider',
-      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.12.stream-and-provider.md'),
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.11.stream-and-provider.md'),
+    },
+    'small-tips' : {
+      name: '심화 주제들/작은 팁들',
+      md_source_path: require('../md/flutter/Fast Campus/2020-01-11/04.12.small-tips.md'),
     },
     'fourth-homework' : {
       name: '심화 주제들/[미션] 애니메이션 미션',
